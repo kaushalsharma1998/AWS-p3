@@ -7,7 +7,7 @@ Ans.  In order to install the HAProxy I first ran the update command then instal
     The Default mode and log were delted because they worked on layer 7<br/>
     The frontend configuration was set to bind all the traffic on port 80<br>
     For the backend , mode was set to tcp and two server configuatons were provided.<br/> Webserver 1 has the IP: 35.171.221.88 <br/>
-    Webserver 2 has the IP : 3.215.144.183< br/>
+    Webserver 2 has the IP : 3.215.144.183<br/>
 
 
 
@@ -33,7 +33,7 @@ Ans.  In order to install the HAProxy I first ran the update command then instal
   Server 1 on haproxy
   <img width="964" alt="Subnet " src="/screenshotsp3/server1onhaproxy.png"><br />
   Server 2 on haproxy
-  <img width="964" alt="VPC " src="/screenshotsp3/server2onhaproxy.png"><br/0>
+  <img width="964" alt="VPC " src="/screenshotsp3/server2onhaproxy.png"><br/>
 
 
   - **_Link to your Elastic IP for your proxy_**
